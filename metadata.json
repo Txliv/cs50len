@@ -1,0 +1,8 @@
+
+{
+  "name": "CS50 Lecture 0 Explorer",
+  "description": "An interactive learning companion for CS50 Week 0, featuring binary/ASCII explorers, algorithm visualizers, and a rubber duck AI chat.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
